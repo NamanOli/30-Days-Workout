@@ -28,7 +28,7 @@ public:
 };
 
 
-// using map
+// using maps
 class Solution {
 public:
 	int lengthOfLongestSubstring(string s) 
